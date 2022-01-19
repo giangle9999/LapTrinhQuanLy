@@ -15,14 +15,14 @@ namespace LNGBaiThucHanh136.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Home";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Xin Chao";
 
             return View();
         }
