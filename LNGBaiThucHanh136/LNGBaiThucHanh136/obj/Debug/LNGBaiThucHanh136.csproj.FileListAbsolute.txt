@@ -77,3 +77,9 @@ F:\LapTrinhQuanLy\LNGBaiThucHanh136\LNGBaiThucHanh136\obj\Debug\LNGBaiThucHanh13
 F:\LapTrinhQuanLy\LNGBaiThucHanh136\LNGBaiThucHanh136\obj\Debug\LNGBaiThucHanh136.csproj.CopyComplete
 F:\LapTrinhQuanLy\LNGBaiThucHanh136\LNGBaiThucHanh136\obj\Debug\LNGBaiThucHanh136.dll
 F:\LapTrinhQuanLy\LNGBaiThucHanh136\LNGBaiThucHanh136\obj\Debug\LNGBaiThucHanh136.pdb
+F:\LapTrinhQuanLy\LNGBaiThucHanh136\LNGBaiThucHanh136\bin\EntityFramework.dll
+F:\LapTrinhQuanLy\LNGBaiThucHanh136\LNGBaiThucHanh136\bin\EntityFramework.SqlServer.dll
+F:\LapTrinhQuanLy\LNGBaiThucHanh136\LNGBaiThucHanh136\bin\EntityFramework.xml
+F:\LapTrinhQuanLy\LNGBaiThucHanh136\LNGBaiThucHanh136\bin\EntityFramework.SqlServer.xml
+F:\LapTrinhQuanLy\LNGBaiThucHanh136\LNGBaiThucHanh136\obj\Debug\LNGBaiThucHanh136.Migrations.InitialCreate.resources
+F:\LapTrinhQuanLy\LNGBaiThucHanh136\LNGBaiThucHanh136\obj\Debug\LNGBaiThucHanh136.csproj.GenerateResource.cache
