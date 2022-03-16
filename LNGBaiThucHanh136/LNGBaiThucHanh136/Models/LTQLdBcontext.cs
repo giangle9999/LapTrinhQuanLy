@@ -17,6 +17,7 @@ namespace LNGBaiThucHanh136.Models
         public virtual DbSet<Person> Persons { get; set; }
         public virtual DbSet<Employee> Employees { get; set; }
         public virtual DbSet<SanPham> SanPhams { get; set; }
+        public virtual DbSet<HangHoa> HangHoas { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

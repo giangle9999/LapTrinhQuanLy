@@ -137,8 +137,13 @@
     <Compile Include="Migrations\202203141507001_create.Designer.cs">
       <DependentUpon>202203141507001_create.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202203160259452_1.cs" />
+    <Compile Include="Migrations\202203160259452_1.Designer.cs">
+      <DependentUpon>202203160259452_1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Employee.cs" />
+    <Compile Include="Models\HangHoa.cs" />
     <Compile Include="Models\keyAttribute.cs" />
     <Compile Include="Models\LTQLdBcontext.cs" />
     <Compile Include="Models\Person.cs" />
@@ -205,6 +210,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202203141507001_create.resx">
       <DependentUpon>202203141507001_create.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203160259452_1.resx">
+      <DependentUpon>202203160259452_1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
